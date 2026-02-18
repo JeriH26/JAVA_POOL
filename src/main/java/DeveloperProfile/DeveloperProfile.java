@@ -1,3 +1,4 @@
+package DeveloperProfile;
 // This project is developed by Junyi Huang, a student enrolled in the MSIS program at the Trine University.
 /*  Given that I have been hired as a junior software developer for TrineTech Solutions, a technology services 
     firm that builds internal tools for client onboarding and data reporting.

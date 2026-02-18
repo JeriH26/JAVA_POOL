@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CurrencyConverter",
+      "request": "launch",
+      "mainClass": "globalpay.converter/globalpay.converter.CurrencyConverter",
+      "projectName": "JAVA_POOL_6ffd7f97"
+    },
+    {
+      "type": "java",
+      "name": "CurrencyConverter",
+      "request": "launch",
+      "mainClass": "globalpay.converter/globalpay.converter.CurrencyConverter",
+      "projectName": "JAVA_POOL",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
