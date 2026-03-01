@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SecureSureClaimTracker",
+      "request": "launch",
+      "mainClass": "globalpay.converter/securesureclaimtracker.SecureSureClaimTracker",
+      "projectName": "JAVA_POOL_6ffd7f97"
+    },
+    {
+      "type": "java",
       "name": "CurrencyConverter",
       "request": "launch",
       "mainClass": "globalpay.converter/globalpay.converter.CurrencyConverter",
