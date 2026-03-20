@@ -95,11 +95,5 @@
     "editor.hover.enabled": "off",
     "editor.inlayHints.enabled": "off",
     "editor.lightbulb.enabled": "off"
-  },
-  "java.project.sourcePaths": [
-    "src/main/java"
-  ],
-  "java.project.resourcePaths": [
-    "src/main/resources"
-  ]
+  }
 }

@@ -1,0 +1,45 @@
+{
+  // Minimal switch reference for this workspace.
+  // Copy ONE of the two blocks below into settings.json, then run:
+  // Developer: Reload Window
+
+  // =========================
+  // OFF: disable suggestions
+  // =========================
+  // {
+  //   "github.copilot.inlineSuggest.enable": false,
+  //   "github.copilot.editor.enableAutoCompletions": false,
+  //   "editor.inlineSuggest.enabled": false,
+  //   "editor.quickSuggestions": {
+  //     "other": false,
+  //     "comments": false,
+  //     "strings": false
+  //   },
+  //   "editor.suggestOnTriggerCharacters": false,
+  //   "editor.acceptSuggestionOnEnter": "off",
+  //   "python.analysis.autoImportCompletions": false,
+  //   "python.analysis.completeFunctionParens": false,
+  //   "java.project.sourcePaths": ["src/main/java"],
+  //   "java.project.resourcePaths": ["src/main/resources"]
+  // }
+
+  // ======================
+  // ON: enable suggestions
+  // ======================
+  // {
+  //   "github.copilot.inlineSuggest.enable": true,
+  //   "github.copilot.editor.enableAutoCompletions": true,
+  //   "editor.inlineSuggest.enabled": true,
+  //   "editor.quickSuggestions": {
+  //     "other": true,
+  //     "comments": false,
+  //     "strings": false
+  //   },
+  //   "editor.suggestOnTriggerCharacters": true,
+  //   "editor.acceptSuggestionOnEnter": "on",
+  //   "python.analysis.autoImportCompletions": true,
+  //   "python.analysis.completeFunctionParens": true,
+  //   "java.project.sourcePaths": ["src/main/java"],
+  //   "java.project.resourcePaths": ["src/main/resources"]
+  // }
+}

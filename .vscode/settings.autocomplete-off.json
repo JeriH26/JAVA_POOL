@@ -1,0 +1,28 @@
+{
+  "github.copilot.inlineSuggest.enable": false,
+  "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.enable": {
+    "*": false,
+    "python": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.wordBasedSuggestions": "off",
+  "python.analysis.autoImportCompletions": false,
+  "python.analysis.completeFunctionParens": false,
+  "java.project.sourcePaths": [
+    "src/main/java"
+  ],
+  "java.project.resourcePaths": [
+    "src/main/resources"
+  ]
+}

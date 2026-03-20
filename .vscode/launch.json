@@ -2,6 +2,23 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "Python: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Python: p002_valid_anagram",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/training/python/p002_valid_anagram.py",
+      "cwd": "${workspaceFolder}/training/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
       "type": "java",
       "name": "SecureSureClaimTracker",
       "request": "launch",

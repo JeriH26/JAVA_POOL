@@ -1,0 +1,110 @@
+{
+  "folders": [
+    {
+      "name": "JAVA_POOL",
+      "path": "."
+    },
+    {
+      "name": "Python Training",
+      "path": "training/python"
+    }
+  ],
+  "settings": {
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.tabCompletion": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.snippetSuggestions": "none",
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showWords": false,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showMethods": false,
+    "editor.suggest.showFunctions": false,
+    "editor.suggest.showConstructors": false,
+    "editor.suggest.showFields": false,
+    "editor.suggest.showVariables": false,
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showStructs": false,
+    "editor.suggest.showInterfaces": false,
+    "editor.suggest.showModules": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showEvents": false,
+    "editor.suggest.showOperators": false,
+    "editor.suggest.showUnits": false,
+    "editor.suggest.showValues": false,
+    "editor.suggest.showConstants": false,
+    "editor.suggest.showEnums": false,
+    "editor.suggest.showEnumMembers": false,
+    "editor.suggest.showColors": false,
+    "editor.suggest.showFiles": false,
+    "editor.suggest.showReferences": false,
+    "editor.suggest.showFolders": false,
+    "editor.suggest.showTypeParameters": false,
+    "editor.suggest.showIssues": false,
+    "editor.hover.enabled": "off",
+    "editor.inlayHints.enabled": "off",
+    "editor.lightbulb.enabled": "off",
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.completeFunctionParens": false,
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "github.copilot.enable": {
+      "*": false,
+      "python": false
+    },
+    "amazonQ.importRecommendationForInlineCodeSuggestions": false,
+    "[python]": {
+      "editor.inlineSuggest.enabled": false,
+      "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+      },
+      "editor.suggestOnTriggerCharacters": false,
+      "editor.tabCompletion": "off",
+      "editor.snippetSuggestions": "none",
+      "editor.suggest.showSnippets": false,
+      "editor.suggest.showWords": false,
+      "editor.suggest.showKeywords": false,
+      "editor.suggest.showMethods": false,
+      "editor.suggest.showFunctions": false,
+      "editor.suggest.showConstructors": false,
+      "editor.suggest.showFields": false,
+      "editor.suggest.showVariables": false,
+      "editor.suggest.showClasses": false,
+      "editor.suggest.showStructs": false,
+      "editor.suggest.showInterfaces": false,
+      "editor.suggest.showModules": false,
+      "editor.suggest.showProperties": false,
+      "editor.suggest.showEvents": false,
+      "editor.suggest.showOperators": false,
+      "editor.suggest.showUnits": false,
+      "editor.suggest.showValues": false,
+      "editor.suggest.showConstants": false,
+      "editor.suggest.showEnums": false,
+      "editor.suggest.showEnumMembers": false,
+      "editor.suggest.showColors": false,
+      "editor.suggest.showFiles": false,
+      "editor.suggest.showReferences": false,
+      "editor.suggest.showFolders": false,
+      "editor.suggest.showTypeParameters": false,
+      "editor.suggest.showIssues": false,
+      "editor.hover.enabled": "off",
+      "editor.inlayHints.enabled": "off",
+      "editor.lightbulb.enabled": "off"
+    },
+    "java.project.sourcePaths": [
+      "src/main/java"
+    ],
+    "java.project.resourcePaths": [
+      "src/main/resources"
+    ]
+  }
+}
