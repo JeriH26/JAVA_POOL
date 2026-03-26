@@ -15,7 +15,7 @@ Open this file when you want to practice Python without auto suggestions:
 
 Use the regular folder workspace instead of the training workspace:
 
-- Open the `JAVA_POOL` folder directly
+- Open the `Python_JAVA_Business_Simulation` folder directly
 
 ## If you want to restore suggestions inside training/python too
 

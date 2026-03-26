@@ -22,22 +22,19 @@
       "type": "java",
       "name": "SecureSureClaimTracker",
       "request": "launch",
-      "mainClass": "globalpay.converter/securesureclaimtracker.SecureSureClaimTracker",
-      "projectName": "JAVA_POOL_6ffd7f97"
+      "mainClass": "globalpay.converter/securesureclaimtracker.SecureSureClaimTracker"
+    },
+    {
+      "type": "java",
+      "name": "CurrencyConverter",
+      "request": "launch",
+      "mainClass": "globalpay.converter/globalpay.converter.CurrencyConverter"
     },
     {
       "type": "java",
       "name": "CurrencyConverter",
       "request": "launch",
       "mainClass": "globalpay.converter/globalpay.converter.CurrencyConverter",
-      "projectName": "JAVA_POOL_6ffd7f97"
-    },
-    {
-      "type": "java",
-      "name": "CurrencyConverter",
-      "request": "launch",
-      "mainClass": "globalpay.converter/globalpay.converter.CurrencyConverter",
-      "projectName": "JAVA_POOL",
       "cwd": "${workspaceFolder}"
     }
   ]

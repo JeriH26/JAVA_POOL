@@ -1,6 +1,6 @@
-# JAVA_POOL
+# Python_JAVA_Business_Simulation
 
-**JAVA_POOL** is a collection of small Java programs and utilities organized into a multi-module workspace. The repository contains examples of object‑oriented design, simple command‑line applications, and academic/learning projects.
+**Python_JAVA_Business_Simulation** is a collection of small Java programs and utilities organized into a multi-module workspace. The repository contains examples of object-oriented design, simple command-line applications, and academic/learning projects.
 
 ---
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Maintained by the JAVA_POOL community.*
+*Maintained by the Python_JAVA_Business_Simulation community.*

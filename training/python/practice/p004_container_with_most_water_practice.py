@@ -5,8 +5,8 @@ TODO: implement solve(height)
 
 def solve(height):
     #raise NotImplementedError("TODO: implement p004 container with most water")
-    #left,right = 0, len(height) -1
     #best = 0
+    #left, right = 0, len(height)-1
     #while left < right:
     #    width = right - left
     #    area = min(height[left], height[right]) * width
@@ -14,13 +14,14 @@ def solve(height):
     #    if height[left] < height[right]:
     #        left += 1
     #    else:
-    #        right -= 1
+    #        right -=1
     #return best
 
     best = 0
-    for i in range(len(height)):
-        for j in range(i+1, len(height)):
-            area = min(height[i], height[j]) * (j- i)
+    n = len(height)
+    for i in range(n):
+        for j in range(i+1, n):
+            area = min(height[i], height[j]) * (j-i)
             best = max(best, area)
     return best
 

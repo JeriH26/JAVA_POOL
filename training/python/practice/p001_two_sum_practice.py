@@ -5,21 +5,20 @@ TODO: implement solve(nums, target)
 
 def solve(nums, target):
     #raise NotImplementedError("TODO: implement p001 two sum")
-    seen = {}
-    for i, num in enumerate(nums):
-        need = target - num
-        if need in seen:
-            return [seen[need], i]
-        seen[num] = i
-    return []
-
-    #n = len(nums)
-#
-    #for i in range(n):
-    #    for j in range(i+1, n):
-    #        if nums[i] + nums[j] == target:
-    #            return [i, j]
+    #seen = {}
+    #for i, num in enumerate(nums):
+    #    need = target - num
+    #    if need in seen:
+    #        return [seen[need], i]
+    #    seen[num] = i
     #return []
+
+    n = len(nums)
+    for i in range(n):
+        for j in range(i+1, n):
+            if nums[i] + nums[j] == target:
+                return [i,j]
+    return[]
 
 
 
