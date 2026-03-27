@@ -26,3 +26,11 @@ replay_pid*
 # Training artifacts
 training/java/bin/
 training/python/__pycache__/
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
+
+# Environment files
+.env
+**/.env
